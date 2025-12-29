@@ -13,7 +13,11 @@ SECRET_KEY = 'django-insecure-5*0%hn#d7nrd!*y4xvvg54&gg3x_rlj6jodk!4jx!*)%@li=#r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'assesment-exam-for-mahfuz-reg-ict-wadp-05d9.onrender.com',
+    'localhost',
+    '127.0.0.1',
+]
 
 
 # Application definition
